@@ -4,7 +4,7 @@ import random
 from pathlib import Path
 
 # === CONFIG ===
-data_root = Path('/project/biocomplexity/gza5dr/CAFO/exp_v2/verified_cafo_dataset_main')  # Path to the root folder
+data_root = Path('verified_cafo_dataset_main')  # Path to the root folder
 train_ratio = 0.8  # 80% train, 20% val
 
 # Define class mappings
