@@ -6,7 +6,7 @@ import geopandas as gpd
 from sklearn.model_selection import train_test_split
 
 # === Step 1: Load and filter labels ===
-label_path = "/project/biocomplexity/wyr6fx(Nibir)/NeurIPS/Meter_ML/geofiles/train_dataset.geojson"
+label_path = "Meter_ML/geofiles/train_dataset.geojson"
 label_df = gpd.read_file(label_path)
 
 # Normalize folder names for matching
