@@ -38,7 +38,7 @@ def create_split_json(dataset_root, output_json, train_ratio=0.8, seed=42):
 
 if __name__ == "__main__":
     create_split_json(
-        dataset_root="/project/biocomplexity/gza5dr/CAFO/NC_data/training_data",
-        output_json="/project/biocomplexity/gza5dr/CAFO/NC_data/nc_training_data.json",
+        dataset_root="/NC_data/training_data",
+        output_json="/NC_data/nc_training_data.json",
         train_ratio=0.8
     )
