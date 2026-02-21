@@ -83,7 +83,7 @@ PRISM-CAFO/
 └── docs/                       # README visuals
 ```
 
-(Structure verified from the GitHub repository file tree.) citeturn0search0
+(Structure verified from the GitHub repository file tree.) 
 
 ---
 
