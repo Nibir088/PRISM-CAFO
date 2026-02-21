@@ -38,7 +38,7 @@ This yields improved interpretability and robustness across regions.
 ## 🧠 Method Overview
 
 <p align="center">
-  <img src="docs/method_v2.png" width="1000">
+  <img src="docs/pipeline.png" width="1000">
 </p>
 
 ### Pipeline
@@ -64,7 +64,7 @@ This yields improved interpretability and robustness across regions.
 
 ### Outputs: Explainable Mapping
 <p align="center">
-<img src="docs/example_2.png" width="850">
+<img src="docs/explain.png" width="850">
 </p>
 
 ---
