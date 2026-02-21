@@ -54,17 +54,17 @@ This yields improved interpretability and robustness across regions.
 
 ### Infrastructure Detection
 <p align="center">
-<img src="docs/detection.png" width="850">
+<img src="docs/example_2.png" width="850">
 </p>
 
 ### Segmentation (SAM)
 <p align="center">
-<img src="docs/segmentation.png" width="850">
+<img src="docs/noisy.png" width="850">
 </p>
 
 ### Outputs: Explainable Mapping
 <p align="center">
-<img src="docs/results.png" width="850">
+<img src="docs/example_2.png" width="850">
 </p>
 
 ---
