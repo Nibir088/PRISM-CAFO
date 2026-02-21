@@ -38,7 +38,7 @@ This yields improved interpretability and robustness across regions.
 ## 🧠 Method Overview
 
 <p align="center">
-  <img src="docs/pipeline.png" width="1000">
+  <img src="docs/method_v2.png" width="1000">
 </p>
 
 ### Pipeline
