@@ -22,7 +22,7 @@
 ## 🌎 Motivation
 Concentrated Animal Feeding Operations (CAFOs) significantly impact environmental sustainability, water quality, and public health—yet **large-scale monitoring of livestock infrastructure remains limited**.
 
-PRISM-CAFO introduces an **infrastructure-first, explainable** remote-sensing pipeline that detects, segments, and reasons over *facility infrastructure* (barns, lagoons, feedlots) to identify CAFOs at scale. citeturn0search4turn0search7
+PRISM-CAFO introduces an **infrastructure-first, explainable** remote-sensing pipeline that detects, segments, and reasons over *facility infrastructure* (barns, lagoons, feedlots) to identify CAFOs at scale.
 
 ---
 
@@ -135,7 +135,7 @@ run_sam_on_yolo.ipynb
 
 ## 📚 Paper
 **PRISM-CAFO: Prior-conditioned Remote-sensing Infrastructure Segmentation and Mapping for CAFOs** (WACV 2026)  
-arXiv: https://arxiv.org/abs/2601.11451 citeturn0search4turn0search7
+arXiv: https://arxiv.org/abs/2601.11451 
 
 ---
 
